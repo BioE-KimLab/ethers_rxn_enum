@@ -1,0 +1,6 @@
+rxn_smiles,rxn_type,R,P,isDel
+[O]OC(OC)C>>[CH2]C(OC)OO,2a-1_5mem,[O]OC(OC)C,[CH2]C(OC)OO,False
+[O]OCCOC>>CO[CH]COO,1-2a_5mem,[O]OCCOC,CO[CH]COO,False
+[O]OC(C)(OC)C>>[CH2]C(C)(OC)OO,3a-1_5mem,[O]OC(C)(OC)C,[CH2]C(C)(OC)OO,False
+[O]OCC(C)OC>>CO[C](C)COO,1-3a_5mem,[O]OCC(C)OC,CO[C](C)COO,False
+[O]OC(CC)OC>>C[CH]C(OC)OO,2a-2_5mem,[O]OC(CC)OC,C[CH]C(OC)OO,False
